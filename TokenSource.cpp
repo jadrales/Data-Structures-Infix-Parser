@@ -22,33 +22,6 @@ int Token::getopd()
 	return opd;
 }
 
-int Token::left()
-{
-	int x;
-	return x;
-}
-
-int Token::right()
-{
-	int y;
-	return y;
-}
-
-char Token::center()
-{
-	char z;
-	return z;
-}
-
-
-
-string Token::getopr()
-{
-	return 0;
-}
-
-
-
 void Token::setopd(int inopd)
 {
 	opd = inopd;
