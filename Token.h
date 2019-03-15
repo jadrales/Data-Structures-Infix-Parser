@@ -19,9 +19,6 @@ public:
 
 
 	int getopd();
-	int left();
-	int right();
-	char center();
 	string getopr();
 	
 	char get_type();
